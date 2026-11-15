@@ -1,0 +1,12 @@
+GPU 3: split=123, learning rate=0.0001
+split=123, lr=0.0001, epoch=1, validation AP=0.4929
+split=123, lr=0.0001, epoch=2, validation AP=0.8046
+split=123, lr=0.0001, epoch=3, validation AP=0.8204
+split=123, lr=0.0001, epoch=4, validation AP=0.8620
+split=123, lr=0.0001, epoch=5, validation AP=0.8986
+split=123, lr=0.0001, epoch=6, validation AP=0.8686
+split=123, lr=0.0001, epoch=7, validation AP=0.8873
+split=123, lr=0.0001, epoch=8, validation AP=0.9251
+split=123, lr=0.0001, epoch=9, validation AP=0.8149
+split=123, lr=0.0001, epoch=10, validation AP=0.9075
+FINISHED

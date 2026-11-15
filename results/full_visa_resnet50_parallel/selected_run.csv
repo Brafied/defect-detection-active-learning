@@ -1,0 +1,10 @@
+,value
+split_seed,42
+backbone_rate,0.0001
+best_epoch,10
+validation_ap,0.8750766549056292
+threshold,0.0027781573589891
+recall,0.9027777777777778
+false_alarms,184
+missed_defects,14
+checkpoint,/home/russ/defect-detection-active-learning/results/full_visa_resnet50_parallel/gpu_1/split_42_lr_0.0001.pt

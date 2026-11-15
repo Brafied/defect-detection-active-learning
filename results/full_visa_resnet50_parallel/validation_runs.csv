@@ -1,0 +1,5 @@
+split_seed,backbone_rate,best_epoch,validation_ap,threshold,recall,false_alarms,missed_defects,checkpoint
+42,1e-05,9,0.8082908330736338,0.0005935882218182,0.9027777777777778,188,14,/home/russ/defect-detection-active-learning/results/full_visa_resnet50_parallel/gpu_0/split_42_lr_1e-05.pt
+42,0.0001,10,0.8750766549056292,0.0027781573589891,0.9027777777777778,184,14,/home/russ/defect-detection-active-learning/results/full_visa_resnet50_parallel/gpu_1/split_42_lr_0.0001.pt
+123,1e-05,10,0.7944086503182122,3.008653766300995e-05,0.9027777777777778,291,14,/home/russ/defect-detection-active-learning/results/full_visa_resnet50_parallel/gpu_2/split_123_lr_1e-05.pt
+123,0.0001,8,0.9250779601735418,0.0426090024411678,0.9027777777777778,36,14,/home/russ/defect-detection-active-learning/results/full_visa_resnet50_parallel/gpu_3/split_123_lr_0.0001.pt
